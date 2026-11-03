@@ -1,0 +1,10 @@
+{
+  "name": "Community Event Ticketing & QR Check-In",
+  "description": "Community event ticketing app with multi-method payment checkout, digital QR member passes, and real-time camera QR scanner check-in system.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
